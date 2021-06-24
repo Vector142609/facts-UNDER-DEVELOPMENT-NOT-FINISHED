@@ -1,0 +1,246 @@
+h2{
+    background-color:mintcream;
+    text-align: center;
+}
+*{
+ background-color: rgb(255, 255, 255); 
+}
+
+.menu{
+display: flex;
+justify-content: center;
+text-align: center;
+}
+
+.menu1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.menu2{
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    text-align: center;
+}
+
+.menu3{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    font: size 12px; ;
+    text-align: center;
+}
+
+.borderaard{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color: lime;
+}
+
+.abyssinianborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:turquoise;
+}
+
+.adelieborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:fuchsia;  
+}
+.head{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 16px; 
+}
+
+.adeliei{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+}
+
+.affenpinscher{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+}
+
+.affenborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:darkturquoise;  
+}
+
+.Afghan{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;
+}
+
+.afghanborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:chartreuse;  
+}
+
+.africanbull{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px; 
+}
+
+.bullfrogborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:crimson; 
+}
+
+.dinohead{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;   
+}
+
+.achehead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;   
+}
+
+.acheborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:chocolate;   
+}
+
+.acrohead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;   
+}
+
+.acroborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:gold ;    
+}
+
+.aegypthead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;  
+}
+
+.aegyptborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:cornflowerblue;   
+}
+
+.afrohead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;  
+}
+
+.afroborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:bisque;    
+}
+
+.agilihead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;    
+}
+
+.agiliborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:blue;    
+}
+
+.alamohead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;      
+}
+
+.alamoborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:indigo;      
+}
+
+.alberttrikehhead{
+    display: flex;
+    font-style: italic;
+    justify-content: center;
+    text-align: center;
+    font-size: 17px;      
+}
+
+.alberttrikeborder{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+    background-color:firebrick;        
+}
+
+a:link{
+    color:red;
+}
+a:visited{
+    color:lime;
+}
+
+.alberthover{
+    position: relative;
+}
+
+.alberthover h2 {
+    position: absolute;
+    top: 25%;
+    opacity : 0;
+} 
+.alberthover:hover h2{
+    opacity: 1;
+}
